@@ -1,0 +1,7 @@
+region,prediction_date,prediction,model_rain_score_percent
+London,2026-11-22,Dry,33.9
+Manchester,2026-11-22,Dry,38.0
+Birmingham,2026-11-22,Dry,34.7
+Edinburgh,2026-11-22,Dry,29.8
+New York,2026-11-22,Dry,28.2
+Mumbai,2026-11-23,Dry,1.9
